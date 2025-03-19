@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - default-trainee
-      userarn: arn:aws:iam::111122223333:user/khalid
+      userarn: arn:aws:iam::891377396025:user/khalid
       username: khalid
 
 kind: ConfigMap
