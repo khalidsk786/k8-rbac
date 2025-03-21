@@ -46,7 +46,7 @@ kind: ClusterRoleBinding
 metadata:
   name: default-trainee
 subjects:
-- kind: Group
+- kind: User
   name: khalid # Name is case sensitive
   apiGroup: rbac.authorization.k8s.io
 roleRef:
